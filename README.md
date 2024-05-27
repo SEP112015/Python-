@@ -1,2 +1,2 @@
-# Python-
+# Python
 Primeros pasos con Python
